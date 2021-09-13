@@ -2,7 +2,9 @@
 ENVIRONNEMENT, OUTILS :
 
 Linux (Ubuntu)
+
 VSCode – édition du code
+
 XAMPP - PHP, MySQL, phpMyAdmin
 
 INSTALLATION :
